@@ -1,6 +1,40 @@
-# Music-Missionary-App
-MUSIC MISSIONARY, created and maintained by NAVII (Ivan R.), hereby declares that it is not responsible for, and expressly disclaims all liability for, damages of any kind arising out of the use, reference to, or reliance on any information contained within the app.
+# Music Missionary
 
-While every effort is made to ensure the accuracy, completeness, and up-to-date nature of the information provided in this app, MUSIC MISSIONARY does not guarantee its correctness or reliability. Users are advised to exercise their own discretion and judgment when using the information, and NAVII shall not be held liable for any errors, omissions, or inaccuracies in the content. Additionally, MUSIC MISSIONARY may unintentionally include copyrighted material or content owned by third parties in the app; however, this inclusion is not intended as an endorsement or appropriation of such material, and any unintentional use of copyrighted material is done so in good faith and for educational or informational purposes only. Users are encouraged to report (here) any instances of unauthorized or copyrighted material for prompt removal or credit attribution.
 
-By using this app, you agree to indemnify and hold harmless MUSIC MISSIONARY and NAVII from and against all claims, losses, liabilities, damages, costs, and expenses arising from or related to your use of the app or any violation of these terms.```
+![Music Missionary Logo](ic_logo.png)
+
+Music Missionary is a powerful tool designed to support missionaries of the Gospel by providing a portable offline music app infused with spiritual content. This app is tailored for individuals who are on a mission to spread the message of God's love and salvation through music.
+
+## Features
+
+- **Offline Music Player:** Access a curated collection of Gospel songs directly from your phone, without the need for an internet connection.
+- **Lyrics Display:** Follow along with the lyrics of your favorite songs, enabling you to sing praises wherever you go.
+- **Words of Wisdom:** Receive daily doses of inspiration with randomly generated Words of Wisdom from the app, designed to uplift and encourage.
+- **Gospel of Salvation:** Dive into the foundational teachings of Christianity with the Gospel of salvation, readily available within the app.
+
+## How to Use
+
+1. **Download the App:** Music Missionary is available for download on both Android and iOS platforms.
+2. **Install and Open:** Once installed, open the app to access its features.
+3. **Offline Access:** Enjoy uninterrupted listening to Gospel music even in areas with limited or no internet connectivity.
+4. **Explore Content:** Discover a rich library of songs, lyrics, Words of Wisdom, and the Gospel of salvation.
+5. **Spread the Word:** Share the app with fellow missionaries and believers, spreading the message of God's love far and wide.
+
+## Contributing
+
+We welcome contributions from individuals passionate about using music as a tool for evangelism. Whether it's adding new songs, enhancing features, or improving user experience, your contributions are invaluable to our mission.
+
+To contribute:
+
+1. Fork the repository
+2. Make your changes
+3. Submit a pull request
+
+## Support
+
+For any questions, feedback, or technical assistance, please contact our support team at [contact.musicmissionary@gmail.com](mailto:contact.musicmissionary@gmail.com).
+
+## License
+
+This project is licensed under the [MIT License](terms_of_use.txt).
+
