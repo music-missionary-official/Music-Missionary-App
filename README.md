@@ -14,11 +14,14 @@ Music Missionary is a powerful tool designed to support missionaries of the Gosp
 
 ## How to Use
 
-1. **Download the App:** Music Missionary is available for download on both Android and iOS platforms.
+1. **Download the App:** Music Missionary is available for download on Android platform.
 2. **Install and Open:** Once installed, open the app to access its features.
 3. **Offline Access:** Enjoy uninterrupted listening to Gospel music even in areas with limited or no internet connectivity.
 4. **Explore Content:** Discover a rich library of songs, lyrics, Words of Wisdom, and the Gospel of salvation.
 5. **Spread the Word:** Share the app with fellow missionaries and believers, spreading the message of God's love far and wide.
+
+## Download
+- [Music Missionary v1.4.1 - Released.apk](Music%20Missionary%20v1.4.1%20-%20Released.apk)
 
 ## Contributing
 
