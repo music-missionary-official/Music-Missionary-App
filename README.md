@@ -1,7 +1,7 @@
 # Music Missionary
 
 
-![Music Missionary Logo](ic_logo.png)
+![Music Missionary Logo](ic_logo_round.png)
 
 Music Missionary is a powerful tool designed to support missionaries of the Gospel by providing a portable offline music app infused with spiritual content. This app is tailored for individuals who are on a mission to spread the message of God's love and salvation through music.
 
@@ -36,5 +36,5 @@ For any questions, feedback, or technical assistance, please contact our support
 
 ## License
 
-This project is licensed under the [MIT License](terms_of_use.txt).
+This project is licensed under the [MIT License](LICENSE.md).
 
