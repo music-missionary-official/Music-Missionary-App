@@ -21,7 +21,7 @@ Music Missionary is a powerful tool designed to support missionaries of the Gosp
 5. **Spread the Word:** Share the app with fellow missionaries and believers, spreading the message of God's love far and wide.
 
 ## Download
-- [Music Missionary v1.4.1 - Released.apk](Music%20Missionary%20v1.4.1%20-%20Released.apk)
+- [Music Missionary v1.4.1 - Released.apk](Music%20Missionary%20%5Bv1.4.1%5D%20-%20Released.apk)
 
 ## Contributing
 
